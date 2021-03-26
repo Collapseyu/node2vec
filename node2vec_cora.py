@@ -4,7 +4,7 @@ import numpy as np
 import node2vec
 import argparse
 
-cora_address = 'D:/yuyicong/workspace/cora/cora/'
+cora_address = './dataset/cora/cora/'
 cora_content = 'cora.content'
 cora_cite = 'cora.cites'
 def parse_args():

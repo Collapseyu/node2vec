@@ -1,0 +1,1 @@
+{"vertexes": [{"entity": "DT_INT64", "attrs": [{"name": "f1", "dtype": "DT_ARRAY_FLOAT"}]}], "edges": [{"entity_1": "DT_INT64", "entity_2": "DT_INT64", "attrs": []}]}
